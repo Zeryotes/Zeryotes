@@ -1,10 +1,20 @@
-# Welcome to my profile! :)
-- 👋 Hi, I’m Jordão de Souza Lopes, but you can find me as @Zeryotes.
-- 👀 I’m interested in expand my edges about the world, mainly through tecnology, but i'm open to learn about anything.
-- 🌱 I’m currently learning about Python/Django Framework and improving my english skills.
-- 📫 How to reach me? Simple! Send me an e-mail in: jordaodesouzalopes@gmail.com
+# Bem-vindo ao perfil de Jordão! 😁
 
-<!---
-Zeryotes/Zeryotes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre mim 👨‍💻
+Olá, me chamo Jordão de Souza Lopes, mas também uso o pseudônimo/nickname Zeryotes.
+Estou finalizando a minha graduação no Bacharelado em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN).
+
+## Interesses 🤩
+Gosto bastante de jogos, cultura geek e, claro, tecnologia e inovação.
+
+## Linguagens que já tive contato 🤓
+Durante a minha tragetório tive a oportunidade de desensenvolver pequenos programas em linguagens como:
+- C/C++
+- Java
+- Javascript
+- Python (Focando no framework Django)
+
+Comecei minha pela linguagem C e atualmente estou desenvolvendo uma aplicação usando Python + Django
+
+## Contato 📞
+Gostaria de trocar um ideia? Colocar uma ideia pra frente? Ou simplesmente interagir com uma pessoa nova? manda um e-mail para: jordaodesouzalopes@gmail.com
